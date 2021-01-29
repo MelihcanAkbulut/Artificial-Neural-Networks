@@ -17,4 +17,6 @@ Kod sayfalarını isimlendirme ara katmanda kullanılan nöron sayısına göre 
 3- İstenilen epoch sonucu çalıştırıldıktan sonra ekrandaki ağırlık değerleri ile test.py kodları çalıştırılmalı
 
 
-# Ağın eğitimi tamamlandıktan sonra test edilen ağırlık ve biaslara göre ağ %94 doğruluk ile tahmin yapmaktadır.
+Ağın eğitimi tamamlandıktan sonra test edilen ağırlık ve biaslara göre ağ %94 doğruluk ile tahmin yapmaktadır.
+
+![image](https://user-images.githubusercontent.com/70907491/106336967-10708b80-62a1-11eb-941e-333b05e585f8.png)
