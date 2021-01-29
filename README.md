@@ -1,6 +1,7 @@
 # Python ile kütüphanesiz yapay sinir ağı kodlama
 
 Projede kullanılan veri tabanı : https://www.kaggle.com/rishidamarla/cancer-patients-data
+%70 eğitim verisi %30 test verisi şeklinde ayrılmıştır.
 
 Kod sayfalarını isimlendirme ara katmanda kullanılan nöron sayısına göre yapılmıştır.
 5 ara katman nöronu için 5N, 10 ara katman için 10N şeklindedir.
@@ -14,7 +15,9 @@ Kod sayfalarını isimlendirme ara katmanda kullanılan nöron sayısına göre 
 
 
 1- Başlangıçda forEğitim.py ve forTest.py kodlarındaki gibi veriyi içe aktarma, işleme ve normalize etmek
+
 2- Ratgele ağırlık ve bias değerleri oluşturulmalı. Bu kısım veri setine ve kullanılan ara katmanlara göre farklılık gösterir.
+
 3- İstenilen epoch sonucu çalıştırıldıktan sonra ekrandaki ağırlık değerleri ile test.py kodları çalıştırılmalı
 
 
